@@ -1,0 +1,27 @@
+{
+	"name": "discordpanel",
+	"version": "2.7.1",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {
+		"test": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SkyZzexTV/Discord-Panel.git"
+	},
+	"keywords": [
+		"discord",
+		"panel",
+		"discordpanel",
+		"dashboard"
+	],
+	"author": "SkyZzexTV",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/SkyZzexTV/Discord-Panel/issues"
+	},
+	"homepage": "https://github.com/SkyZzexTV/Discord-Panel/blob/main/README.md"
+}
